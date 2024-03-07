@@ -1,0 +1,21 @@
+S(DvA^C)v~(BvC)
+(VvV^F)v~(FvF)
+V^Fv~F
+FvV
+V
+
+
+
+ S = ~(A v B)
+     ~(VvF)
+      ~VvF
+       ~VvV
+      FvF
+       F
+
+
+
+S = ~(A ^ B)
+     ~(V^F)
+    ~FvF
+     F
