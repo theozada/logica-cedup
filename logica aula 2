@@ -19,3 +19,11 @@ S = ~(A ^ B)
      ~(V^F)
     ~FvF
      F
+
+
+
+S = C v ~B ^ (A v ~D)
+    F v ~F ^ (V v ~V)
+    F v V  ^ (V v F)
+      V^FvV
+        V
